@@ -1,0 +1,17 @@
+{
+    "name": "Discountable",
+    "alias": "discountable",
+    "description": "",
+    "keywords": [],
+    "version": "1.0.0",
+	"active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Discountable\\Providers\\DiscountableServiceProvider",
+        "Modules\\Discountable\\Providers\\EventServiceProvider",
+        "Modules\\Discountable\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
